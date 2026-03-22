@@ -30,6 +30,10 @@ It also highlights key fields such as:
 - Activity Status
 - Total Float
 
+## Preview
+
+![Lookahead Schedule Layout](3 Weeks Lookahead Schedule Layout.png)
+
 ## Notes
 
 - The layout was developed using a sample (dummy) project for demonstration purposes
