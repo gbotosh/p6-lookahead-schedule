@@ -32,7 +32,7 @@ It also highlights key fields such as:
 
 ## Preview
 
-![Lookahead Schedule Layout](3 Weeks Lookahead Schedule Layout.png)
+![Lookahead Schedule Layout](3_weeks_lookahead_schedule_layout.png)
 
 ## Notes
 
